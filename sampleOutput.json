@@ -1,0 +1,89 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Sam Buckingham-Jones",
+      "title": "FIFA Women’s World Cup: Matildas smash 20-year-old ratings record with soccer win over France",
+      "description": "Early TV audience numbers put the Matildas nail-biting win over France as the most-watched sports event since the Sydney Olympics in 2000, at 4.17 million people.",
+      "url": "http://www.afr.com/companies/media-and-marketing/matildas-smash-20-year-old-ratings-record-20230813-p5dw28",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2258%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_121%2C$y_39/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/22a5d9f63ad0e25ad19651ccd0850584b9892f64",
+      "publishedAt": "2023-08-13T02:08:11Z",
+      "content": "A Seven spokesman said the 2013 My Kitchen Rules finale had 4.51 million viewers, nationally.\r\nIn the Sydney Olympics in 2000, Cathy Freemans victory in the 400-metre race reportedly reached 8.8 mill… [+2106 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Michigan football coach Jim Harbaugh's suspension agreement called off, per report",
+      "description": "The agreed upon four-game suspension for Michigan football coach Jim Harbaugh has hit a snag and won't happen, according to Yahoo! Sports.",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2023/08/12/jim-harbaugh-four-game-suspension-called-off-michigan-coach/70582995007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/27/PDTF/861b5c30-f12f-4edf-8eb2-4c0c5f8ef8b3-SI_20230727_jma_ga3_15.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2023-08-12T23:32:05+00:00",
+      "content": "So much for that suspension for Jim Harbaugh.\r\nThe agreed upon four-game suspension for the Michigan football coach has hit a snag and will now not happen, according to Yahoo! Sports columnist Dan We… [+2760 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "José Bautista added to Blue Jays' Level of Excellence in emotional ceremony | CBC Sports",
+      "description": "The familiar song of \"Jo-sé, Jo-sé, Jo-sé\" echoed around Rogers Centre for the first time in six years as José Bautista was added to the Toronto Blue Jays' Level of Excellence on Saturday.",
+      "url": "http://www.cbc.ca/sports/baseball/mlb/jose-bautista-blue-jays-recap-aug-12-1.6934966",
+      "urlToImage": "https://i.cbc.ca/1.6935133.1691875443!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/baseball-mlb-tor-chc.JPG",
+      "publishedAt": "2023-08-12T21:52:21.6048127Z",
+      "content": "The familiar song of \"Jo-sé, Jo-sé, Jo-sé\" echoed around Rogers Centre for the first time in six years as José Bautista was added to the Toronto Blue Jays' Level of Excellence on Saturday.\r\nA visibly… [+4895 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Rooks x Pulisic Interview ️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/457604-rooks-x-pulisic-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01T17:52:19.0557986Z",
+      "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Cedric Mullins Interview ⚾️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/457122-betts-x-mullins-full-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01T17:52:17.8373521Z",
+      "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "2023 NFL Week 1 odds, predictions: Picks, lines, spreads for every game",
+      "description": "Read to find out which team is favored in every Week 1 game, take a look at the spreads for every matchup and check out a couple of early picks from FOX Sports NFL Betting Analyst Geoff Schwartz.",
+      "url": "http://www.foxsports.com/stories/nfl/2023-nfl-odds-week-1-lines-for-every-game",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/05.12.23_NFLWeek1_Odds_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2023-05-12T20:35:18Z",
+      "content": "The 2023 NFL regular season is almost here!\r\nIn the season's first game, the defending Super Bowl champion Kansas City Chiefs will open up at home against the Detroit Lions on Thursday, Sept. 7. \r\nTh… [+13303 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    },
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "NRK",
+      "title": "De siste sportsnyhetene fra NRK",
+      "description": "Her får du de siste sportsnyhetene fra NRK.",
+      "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16514576.1.16514576",
+      "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+      "publishedAt": "2019-08-14T09:09:42Z",
+      "content": "12. august2023kl.16:00(Arsenal Nottingham Forest 21) Hjemme mot Nottingham Forest var det Martin Ødegaard og Arsenal som dominerte store delere av kampen, før gjestene klinte til med en sluttspurt de… [+866 chars]"
+    }
+  ]
+}
